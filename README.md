@@ -1,7 +1,7 @@
 # React Starter
 
 This is a starter template for creating react apps. <br>
-Change "name" in package.json and package-lock.json before developing app.
+Change "name" in package.json and package-lock.json before developing.
 
 ## Available Scripts
 
